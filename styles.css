@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    font-family: cursive;
+}
+.topnav {
+    color:  white;
+    overflow: hidden;
+}
+.topnav a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: red;
+    color: black;
+}
+.topnav a:active {
+    background-color: red;
+    color: black;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: white; 
+    border: solid red; 
+    text-align: center;
+}
+#para1{
+    color: white;
+    text-align: left;
+}
+p {
+    color: white; 
+    text-align: center;
+}
